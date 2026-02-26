@@ -1,0 +1,23 @@
+{
+    "seed": 42,
+    "obs_prob": 0.3,
+    "n_samples": 20000,
+    "epochs_per_block": 30,
+    "max_cycles": 5,
+    "beta_mode": "constant",
+    "beta_const": 10.0,
+    "beta_start": 10.0,
+    "beta_stop": 30.0,
+    "softmin_temp": 0.1,
+    "final_unobs_acc_X3": 1.0,
+    "final_unobs_acc_X4": 1.0,
+    "final_unobs_acc_X5_combined": 1.0,
+    "total_time_seconds": 26.40834879875183,
+    "total_time_minutes": 0.44013914664586384,
+    "total_time_hours": null,
+    "initial_memory_mb": 205.875,
+    "final_memory_mb": 368.25,
+    "memory_increase_mb": 162.375,
+    "peak_memory_mb": 368.25,
+    "memory_efficiency_mb_per_sec": 6.148623726435881
+}
